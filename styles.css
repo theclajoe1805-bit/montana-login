@@ -116,3 +116,9 @@ button{
     background-color: #5c636a;
     color: #2d7ff9;
 }
+.btn-primary:active{
+    background-color: #550404;
+}
+.btn-secondary:active{
+    background-color: #550404;
+}
